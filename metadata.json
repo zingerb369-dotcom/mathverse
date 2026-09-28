@@ -1,0 +1,6 @@
+{
+  "name": "MATHVERSE - CBSE Classes 5-10 Mathematics Learning Platform",
+  "description": "Comprehensive CBSE/NCERT Mathematics learning platform for Classes 5–10 with interactive chapters, practice, quizzes, formulas, Class 10 exam prep, and AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
