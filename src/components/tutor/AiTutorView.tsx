@@ -1147,6 +1147,7 @@ export const AiTutorView: React.FC = () => {
                 </div>
               )}
             </div>
+          )}
         </div>
       )}
     </div>
